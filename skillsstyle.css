@@ -1,0 +1,19 @@
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.microsoftword {width: 90%; background-color: rgb(38, 102, 145);}
+.microsoftpowerpoint {width: 65%; background-color: rgb(38, 102, 145);}
+.microsoftexcel {width: 60%; background-color: rgb(38, 102, 145);}
+.html5 {width: 50%; background-color: rgb(38, 102, 145);}
+.css3 {width: 55%; background-color: rgb(38, 102, 145);}
